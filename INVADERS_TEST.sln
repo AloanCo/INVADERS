@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INVADERS_TEST.Plugins", "INVADERS_TEST.Plugins.csproj", "{7828D300-8FA9-FAAC-5634-20C67D982B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INVADERS_TEST", "INVADERS_TEST.csproj", "{84539937-778B-2CDF-964F-83CF7386CD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INVADERS_TEST.Editor.Plugins", "INVADERS_TEST.Editor.Plugins.csproj", "{68DD2C31-6A99-DB0F-EF63-3BA6B4D5FD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INVADERS_TEST.Editor", "INVADERS_TEST.Editor.csproj", "{62E9873C-3D20-A8BD-195B-D300814C0243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7828D300-8FA9-FAAC-5634-20C67D982B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7828D300-8FA9-FAAC-5634-20C67D982B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7828D300-8FA9-FAAC-5634-20C67D982B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7828D300-8FA9-FAAC-5634-20C67D982B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84539937-778B-2CDF-964F-83CF7386CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84539937-778B-2CDF-964F-83CF7386CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84539937-778B-2CDF-964F-83CF7386CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84539937-778B-2CDF-964F-83CF7386CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DD2C31-6A99-DB0F-EF63-3BA6B4D5FD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DD2C31-6A99-DB0F-EF63-3BA6B4D5FD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DD2C31-6A99-DB0F-EF63-3BA6B4D5FD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DD2C31-6A99-DB0F-EF63-3BA6B4D5FD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E9873C-3D20-A8BD-195B-D300814C0243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E9873C-3D20-A8BD-195B-D300814C0243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E9873C-3D20-A8BD-195B-D300814C0243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E9873C-3D20-A8BD-195B-D300814C0243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
